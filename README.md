@@ -1,3 +1,5 @@
+> **_NOTE:_**  This is archived repository. All the future updates will be published at [vgs-samples](https://github.com/vgs-samples/vgs-collect-show-ios-react-native-demo) repository.
+
 ## VGS Collect iOS SDK - React Native Demo
 
 This examples shows how easily you can integrate <a href="https://github.com/verygoodsecurity/vgs-collect-ios">VGS Collect iOS SDK</a> 
